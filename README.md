@@ -1,6 +1,5 @@
 # conflict-resolution
 Resolving conflicts is "fun"!
 
-## Subheading Wooo
+## subheader
 
-this is the subheading of the readme
